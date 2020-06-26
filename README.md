@@ -8,6 +8,8 @@ cara menginstall projek
 3.ketik di terminal "npm install" tanpa tanda kutip
 4.selesai
 
+sebelumnya bikin db nya dulu dengan nama testonline
+
 untuk test API nya berjalan bisa menggunakan Postman
 
 Best Regard
